@@ -1,8 +1,8 @@
 {
   "packId": "pixelonline-neoforge-1.21.1",
-  "mcVersion": "1.21.1",
+  "mcVersion": "1.21.4",
   "loader": "neoforge",
-  "loaderVersion": "21.1.200",
+  "loaderVersion": "21.4.156",
   "mods": [
     {
       "fileName": "iris-neoforge-1.8.8+mc1.21.4.jar",
