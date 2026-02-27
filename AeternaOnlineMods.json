@@ -5,14 +5,14 @@
   "loaderVersion": "21.1.200",
   "mods": [
     {
-      "fileName": "Pixelmon-1.21.1-neoforge.jar",
-      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/Pixelmon-1.21.1-9.3.14-universal.jar",
-      "sha256": "4402e5d03847b219eb931c8ea4ac187c9baae2bfdecf1d15e92c78589d390f5c"
+      "fileName": "iris-neoforge-1.8.8+mc1.21.4.jar",
+      "url": "https://github.com/Pixel-OnlineKR/AeternaOnlineMod/releases/download/Mods/iris-neoforge-1.8.8+mc1.21.4.jar",
+      "sha256": "589ad5a844ca6ab5746ed5f0bb7d997df98e88bc2212d81be801400a132b622d"
     },
     {
-      "fileName":"entityculling-neoforge-1.8.2-mc1.21.jar",
-      "url": "https://github.com/Pixel-OnlineKR/mods/releases/download/v1.0/entityculling-neoforge-1.8.2-mc1.21.jar",
-      "sha256": "cea07c73c3da2a4396dc4e6af8fdb5f460d7a0c32b2ce6b645d6279ee9b5e2f2"
+      "fileName":"sodium-neoforge-0.6.13+mc1.21.4.jar",
+      "url": "https://github.com/Pixel-OnlineKR/AeternaOnlineMod/releases/download/Mods/sodium-neoforge-0.6.13+mc1.21.4.jar",
+      "sha256": "78a1615506430f7d91793777dc9439188f5a56316111c3100c896eee8910d556"
     }
   ]
 }
